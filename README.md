@@ -17,7 +17,9 @@
 </div>
 
 
-### Hello World! 👋
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 
 - 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
 - 🌱 I’m currently learning React.js and functionalities and features.
