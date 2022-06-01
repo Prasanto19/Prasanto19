@@ -56,3 +56,8 @@
     </a>
   </div>
 </p>
+<Br>
+<hr>
+<Br>
+<h1 align="center">Skills I have! 🤸‍♂</h1>
+<Br>
