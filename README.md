@@ -102,3 +102,14 @@
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=Prasanto19&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanto19&layout=compact&theme=merko)
+  
+<Br>
+<hr>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
+
+------
+  
+Credit: [Prashanta](https://prasanto19.github.io/portfolio)
+Last Edited on: 01/06/2022
