@@ -15,11 +15,12 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<Br>
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
+<hr>
 
 - 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
 - 🌱 I’m currently learning React.js and functionalities and features.
