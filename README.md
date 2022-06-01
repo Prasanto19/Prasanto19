@@ -78,7 +78,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Tools I use! 🛠️</h1>
+<h1 align="center">Tools I use! 🛠️</h1>
 <Br>
  
 <div id="badges">
@@ -97,7 +97,7 @@
 <Br>
 <hr>
 <Br>
-<h1>GitHub Stats! 📊</h1>
+<h1 align="center">GitHub Stats! 📊</h1>
 <Br>
   
 [![github stats](https://github-readme-stats.vercel.app/api?username=Prasanto19&show_icons=true&theme=merko)](https://github.com/prasanto19)
@@ -106,7 +106,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1 align="center">Thank You! 🤵 </h1>
 <Br>
 
 ------
