@@ -17,7 +17,7 @@
 </div>
 <Br>
 
-<p>
+<p align="center">
   <a href="https://prasanto19.github.io/portfolio" target="_blank"><img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/></a>
 </p>
 <hr>
