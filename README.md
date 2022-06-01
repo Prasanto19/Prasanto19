@@ -21,6 +21,10 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
+  
+<h1 align="center">I'm <a href="https://prasanto19.github.io/portfolio">Prashanta Kumar Dey<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! 😎</h1>
 
 - 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
 - 🌱 I’m currently learning React.js and functionalities and features.
