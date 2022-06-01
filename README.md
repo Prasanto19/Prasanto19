@@ -22,7 +22,6 @@
 </p>
 <hr>
 <h1 align="center"> I'm <a href="https://prasanto19.github.io/portfolio">Prashanta ! </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<Br>
 <p align="center">
   <a href="https://prasanto19.github.io/portfolio"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Front+End+Web+Developer;React+Developer;JavaScript+Developer;Wordpress+Developer;Open+Source+Contributor)](https://git.io/typing-svg"></a>
 </p>
