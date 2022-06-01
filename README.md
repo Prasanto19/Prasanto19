@@ -1,14 +1,3 @@
-### Hellow World 👋
-
-
-- 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
-- 🌱 I’m currently learning React.js and functionalities and features.
-- 👯 I’m looking to collaborate on React.js and Wordpress custome theme and pluggin develeopment projects.
-- 🤔 I’m looking for help with web development solutions.
-- 💬 Ask me about anything about programming and web development.
-- 📫 How to reach me: You can reach me through LinkedIn, Instagram, Twitter 
-- ⚡ Fun fact: Reading Jokes, Listening music, Skating and Hiking.
-
 <div id="badges">
   <a href="https://github.com/Prasanto19">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -26,3 +15,14 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+### Hello World! 👋
+
+- 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
+- 🌱 I’m currently learning React.js and functionalities and features.
+- 👯 I’m looking to collaborate on React.js and Wordpress custome theme and pluggin develeopment projects.
+- 🤔 I’m looking for help with web development solutions.
+- 💬 Ask me about anything about programming and web development.
+- 📫 How to reach me: You can reach me through LinkedIn, Instagram, Twitter 
+- ⚡ Fun fact: Reading Jokes, Listening music, Skating and Hiking.
