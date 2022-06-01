@@ -21,7 +21,7 @@
   <a href="https://prasanto19.github.io/portfolio" target="_blank"><img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/></a>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://prasanto19.github.io/portfolio" target="_blank">Prashanta<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm Prashanta<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
