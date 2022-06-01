@@ -101,4 +101,4 @@
 <Br>
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=Prasanto19&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanto19&layout=compact&theme=merko
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanto19&layout=compact&theme=merko)
