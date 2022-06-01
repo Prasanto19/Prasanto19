@@ -21,7 +21,7 @@
   <a href="https://prasanto19.github.io/portfolio" target="_blank"><img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/></a>
 </p>
 <hr>
-<h1 >Hi, I'm <a href="https://prasanto19.github.io/portfolio">Prashanta Kumar Dey</a> !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm <a href="https://prasanto19.github.io/portfolio">Prashanta Kumar Dey</a> !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Front+End+Web+Developer;React+Developer;JavaScript+Developer;Wordpress+Developer;Open+Source+Contributor)](https://git.io/typing-svg"></p>
 <h1>About Me! 😎</h1>
 
