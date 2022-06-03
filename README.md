@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
 - 🌱 I’m currently learning functionalities and features of React.js.
-- 👯 I’m looking to collaborate on React.js projects and Wordpress custome theme and pluggin develeopment projects.
+- 👯 I’m looking to collaborate on React.js projects, Wordpress custome theme and pluggin develeopment projects.
 - 🤔 I’m looking for help with react.js project solutions.
 - 💬 Ask me about anything about programming and web development.
 - 📫 How to reach me: You can reach me through LinkedIn, Instagram, Twitter 
