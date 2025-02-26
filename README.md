@@ -25,13 +25,11 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Front+End+Web+Developer;React+Developer;JavaScript+Developer;Full+Stack+Web+Developer;PHP+Developer;Laravel+Developer"></p>
 <h1 align="center">About Me! 😎</h1>
 
-- 🔭 I’m currently working on React.js and Wordpress using JavaScript and PHP Programming Knowledge.
-- 🌱 I’m currently learning functionalities and features of React.js.
-- 👯 I’m looking to collaborate on React.js projects, Wordpress custome theme and pluggin develeopment projects.
-- 🤔 I’m looking for help with react.js project solutions.
+- 🔭 I’m currently working on React.js and Laravel using JavaScript and PHP Programming Knowledge.
+- 👯 I’m looking to collaborate on React.js or Laravel projects.
 - 💬 Ask me about anything about programming and web development.
 - 📫 How to reach me: You can reach me through LinkedIn, Instagram, Twitter 
-- ⚡ Fun fact: Reading Jokes, Listening music, Skating and Hiking.
+- ⚡ Fun fact: Reading Tech articles, Listening music, Travelling.
 
 <hr>
 <Br>
