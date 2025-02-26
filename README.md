@@ -22,7 +22,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm <a href="https://prasanto19.github.io/portfolio">Prashanta Kumar Dey</a> !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Front+End+Web+Developer;React+Developer;JavaScript+Developer;Full+Stack+Web+Developer;PHP+Developer;Laravel+Developer"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;React+Developer;JavaScript+Developer;PHP+Developer;Laravel+Developer"></p>
 <h1 align="center">About Me! 😎</h1>
 
 - 🔭 I’m currently working on React.js and Laravel using JavaScript and PHP Programming Knowledge.
@@ -110,4 +110,4 @@
   
 Credit: [Prashanta](https://prasanto19.github.io/portfolio)
 <br>
-Last Edited on: 01/06/2022
+Last Edited on: 26/02/2025
